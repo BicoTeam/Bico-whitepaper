@@ -31,16 +31,14 @@ BICO will be implemented on the public Ethereum blockchain as an ERC20 token. Th
 We want to be as transparent as we can, that's why we are disclosing the way we are going to be using the funds. This is obviously a piece of text in a website and you will have to trust us, but please do, we are genuinly trying to help :)
 
 | Expenses             		| People | Man Hours | € / hours | Total |
-|-------------------------	|--------|-----------|-----------|-------|
+|-------------------------|--------|-----------|-----------|-------|
 | Writing the Book     		| 5      | 350       | 20        | 35000 |
 | Design and Branding  		| 1      | 50        | 20        | 1000  |
 | Web Page             		| 2      | 50        | 20        | 2000  |
 | Community Support    		| 2      | 30        | 20        | 1200  |
-| Engineering development 	| 5      | 50        | 20        | 5000  |
-| White Paper					| 2      | 75        | 20        | 3000  |
-|-------------------------	|----------------------------------------|
-| TOTAL             		   |                                  47200 |
-|-------------------------------------------------------------------|
+| Engineering development | 5      | 50        | 20        | 5000  |
+| White Paper				    	| 2      | 75        | 20        | 3000  |
+| TOTAL             		  |        |           |           | 47200 |
 
 ## Disclaimer
 
