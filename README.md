@@ -1,6 +1,5 @@
 # Bico-whitepaper
-The whitepaper of Bico, the world's first ICO funded book.
-Visit our website: https://bico.me
+The whitepaper of Bico, the world's first ICO funded book: https://bico.me
 
 ## Contributing
 You can contribute to the whitepaper by sending us improvements, ideas, or if you see any issues on it.
