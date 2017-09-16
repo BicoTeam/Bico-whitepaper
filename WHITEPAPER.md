@@ -7,9 +7,11 @@ Everything you need for a successful ICO in the **world's first ICO funded book*
 ## Vision and mission
 
 BICO is the world's first ICO funded book that will teach entrepreneurs how get funding for their projects and also teach beginner investors to make informed decisions. We will teach you everything that is necessary to make your own successful ICO.
-Our vision is that ICOs will be accesible to everybody and perceived as a regular way of funding your own startup
 
-Our mission is to bring clearness, knowledge and information to the world of cryptocurrencies.
+> *Knowledge is power. Information is liberating. Education is the premise of progress, in every society, in every family* ---- Kofi Annan
+
+Our vision is that ICOs will be accesible to everybody and perceived as a regular way of funding your own startup. Our mission is to bring clearness, knowledge and information to the world of cryptocurrencies.
+
   
 ## Team
 
@@ -19,7 +21,20 @@ We decided to try an ICO ourselves and to write everything that we are going thr
 
 ## Business Opportunity
 
-We think the business opportunity comes from the fact that we have been investigating and doing our own ICO to show the rest of the world how to do it right the first time. You won´t fall into the same pitholes we have fallen into, and you will learn everything along the way. Imagine a very clear step by step guide on how to get funding for your next project using cryptocurrencies, that is the opportunity here.
+Over half a billion dollars has been raised through so-called "Initial Coin Offerings" (ICOs) since the start of the year 2017. Is this a bubble? No, it's not, we believe **ICOs are the future of startup funding**. 
+
+Unlike with the traditional Venture Capitalist system where you lose six months to a year raising, here you don’t lose any time, enterprenheurs can focus in what they are really good at, building their projects, their products and their startups. Moreover, when you get money from a Venture Capitalist you get money from one person or perhaps one team.  Whereas with token crowdfunding, you can get thousands of engaged supporters who are extremely motivated to see your company succeed. They are your early adopters, they’re your evangelists.
+
+It is to expect then that in a near future every startup will try to carry out an ICO, but **there is a lack of clearness and information**, first because it is relatively new, and secondly because of the complex rules in the world of cryptocurrencies. 
+
+### BIG IMPACT
+We are the world's first ICO funded book, and that comes with big meaning and responsability. We love what BICO stands for and what BICO represnts.
+
+### A GUIDE THAT EVERYBODY WILL NEED
+As the future of startup fundings relies in ICOs, every single enterprenheur will need this guide to make their projects come true. What better proof that our guide will work than the fact that we have been investigating and doing our own ICO to show the rest of the world how to do it right the first time. You won't fall into the same pitholes we have fallen into, and you will learn everything along the way. Imagine a very clear step by step guide on how to get funding for your next project using cryptocurrencies, that is the opportunity here. And of course, the better the ICO goes the better content we can deliver in the guidebook.
+
+
+
 
 ## Why in Ethereum?
 
@@ -28,7 +43,10 @@ BICO will be implemented on the public Ethereum blockchain as an ERC20 token. Th
 
 ## Economic and Financial Plan. Use of Funds
 
-We want to be as transparent as we can, that's why we are disclosing the way we are going to be using the funds. This is obviously a piece of text in a website and you will have to trust us, but please do, we are genuinly trying to help :)
+
+Regarding the smart contract and the token distribution, 5 million BICO tokens will be created. From those 5 million, half will be retained and kept within the team as a reserve. The other half will be for sale in regulation during the ICO. A few days before the official crowdsale starts a Pre-Sale event will take place with BONUS tokens, where 10% of the available BICOs will be at half the price.
+
+The goal of this ICO is to raise 47200$. We want to be as transparent as we can, that's why we are disclosing the way we are going to be using the funds. Let us build from trust. Let us build for true transparency. This is obviously a piece of text in a website and you will have to trust us, but please do, we are genuinly trying to help :)
 
 | Expenses             		| People | Man Hours | € / hours | Total |
 |-------------------------|--------|-----------|-----------|-------|
@@ -39,6 +57,9 @@ We want to be as transparent as we can, that's why we are disclosing the way we 
 | Engineering development | 5      | 50        | 20        | 5000  |
 | White Paper				    	| 2      | 75        | 20        | 3000  |
 | TOTAL             		  |        |           |           | 47200 |
+
+
+People who has participated in the crowdsale buying 1500 BICOs or more will be able to get the guidebook in return for their investment. After all books has been delivered, the book will be available for sale for the whole market at a price of 2500 BICOs. Please note that final prices might vary slightly as Ethereum value changes constantly.
 
 ## Disclaimer
 
