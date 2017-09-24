@@ -1,12 +1,6 @@
----
-layout: page
-title: Whitepaper
-permalink: /whitepaper/
----
-
-
+# BICO Whitepaper
+	
 Everything you need for a successful ICO in the **world's first ICO funded book**
-
 
 
 ## Vision and mission
