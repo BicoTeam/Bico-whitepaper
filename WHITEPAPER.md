@@ -1,6 +1,7 @@
 # BICO Whitepaper
-	
+
 Everything you need for a successful ICO in the **world's first ICO funded book**
+
 
 
 ## Vision and mission
@@ -16,7 +17,7 @@ Our vision is that ICOs will be accessible to everybody and perceived as a regul
 
 We are a team of technical people and we like to make informed decisions and convey to clear tasks.
 
-We decided to try an ICO ourselves and to write everything that we are going through in a book. Our ultimate goal is to learn how to do an ICO properly so we won't screw up our future goal, which is to help out planting trees. We will be learning on the way and we hope you will join us in the process.
+We decided to try an ICO ourselves and to write everything that we are going through in a book. Our ultimate goal is to learn how to do an ICO properly so we won't screw up our future goal, which is to help out planting trees. We are contacting the best and most successful ICOs to learn from them and apply their advices directly in BICO, and of course, all their tips and stories will be included in the book as case studies. You might also be wondering whether or not we are such good writers as to publish a guidebook, but do not worry, because our advisors have already written best-sellers and will make sure that we launch the best possible book.
 
 ## Business Opportunity
 
@@ -91,12 +92,11 @@ The goal of this ICO is to raise 47200$. We want to be as transparent as we can,
 
 | Expenses             		| People | Man Hours | € / hours | Total |
 |-------------------------|--------|-----------|-----------|-------|
-| Writing the Book     		| 5      | 350       | 20        | 35000 |
+| Writing the Book     		| 4      | 350       | 20        | 35000 |
 | Design and Branding  		| 1      | 50        | 20        | 1000  |
 | Web Page             		| 2      | 50        | 20        | 2000  |
-| Community Support    		| 2      | 30        | 20        | 1200  |
+| Communication and Networking    		| 2      | 30        | 20        | 4200  |
 | Engineering development | 5      | 50        | 20        | 5000  |
-| White Paper				    	| 2      | 75        | 20        | 3000  |
 | TOTAL             		  |        |           |           | 47200 |
 
 
@@ -105,4 +105,3 @@ People who have participated in the crowdsale buying 1500 BICOs or more will be 
 ## Disclaimer
 
 The token economy is relatively new and incredibly innovative. Tokens could be impacted by regulatory actions, including restrictions on ownership, use, or possession. This document is for informational purposes only and shall not constitute an offer to sell or any type of solicitation or investment advice. We do not accept responsibility for any omission, error, or inaccuracy in this document.
-
