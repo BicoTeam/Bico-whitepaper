@@ -61,25 +61,22 @@ In the following lines you can see a glimpse of the action plan. The Timeline re
 - **18th September:** Active communication starts. We go public.
 
 
-- **?? October:** Private Pre-Sale Event only for subscriptors.
-
-
 - **20th October:** Official Crowdsale starts.
 
 
-- **20th Novemeber:** Crowdsale finishes successfully. It is possible to trade BICOs in exchange lists.
+- **20th December:** Crowdsale finishes successfully. It is possible to trade BICOs in exchange lists.
 
 
-- **21st November:** Guidebook creation starts.
+- **21st December:** Guidebook creation starts.
 
 
-- **20th May:** Within a maximum period of 6 months the book will be finished. Start delivering the guidebook to eligible investors.
+- **20th June:** Within a maximum period of 6 months the book will be finished. Start delivering the guidebook to eligible investors.
 
 
-- **30th May:** All investors, who have bought 1500 BICOs or more, have received the book.
+- **30th June:** All investors, who have bought 1500 BICOs or more, have received the book.
 
 
-- **1st June:** Book is open and accessible to the public at a higher price than the one from the crowdsale.
+- **1st July:** Book is open and accessible to the public at a higher price than the one from the crowdsale.
 
 
 
